@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on projects related to ML and DL related projects. 
 
-- 📫 How to reach me - Ping me on my LinkedIn - https://www.linkedin.com/in/sudarshansrini55/
+- 📫 How to reach me - Ping me on my [LinkedIn](https://www.linkedin.com/in/sudarshansrini55/)
 
 - 👨‍💻 Programming Languages - C, C++, Python, MATLAB, VHDL, SQL, Bash, RISC-V
 

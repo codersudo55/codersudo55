@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning advanced concepts related to Embedded systems.
 
-- 💞️ I’m looking to collaborate on projects related to ML and DL related projects. 
+- 💞️ I’m looking to collaborate on projects related to Machine Learning and Deep Learning. 
 
 - 📫 How to reach me - Ping me on my [LinkedIn](https://www.linkedin.com/in/sudarshansrini55/)
 

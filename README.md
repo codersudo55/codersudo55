@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m Sudarshan (@codersudo55). I am currently pursuing MS in Electrical and Computer Engineering at Rutgers University.
+- 👋 Hi, I’m Sudarshan (@codersudo55). I am currently pursuing MS in Electrical and Computer Engineering at Rutgers University.
 
 - 👀 I’m interested in Embedded systems, Computer Architecture, Machine Learning and Deep Learning. 
 

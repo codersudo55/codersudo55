@@ -6,9 +6,7 @@
 
 - 💞️ I’m looking to collaborate on projects related to Machine Learning and Deep Learning. 
 
-- 📫 How to reach me - Ping me on my [LinkedIn](https://www.linkedin.com/in/sudarshansrini55/)
-
-- 👨‍💻 Programming Languages - C, C++, Python, MATLAB, VHDL, SQL, Bash, RISC-V, Java
+- 👨‍💻 Programming Languages - Python, C, C++, MATLAB, VHDL, SQL, Bash, RISC-V, Java
 
 - 🏁 Interests - Coding, Stand-up Comedy, Billiards, Cricket, Soccer, Piano, Hiking 
 

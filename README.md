@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sudarshan (@codersudo55). I have done my Masters in Electrical and Computer Engineering at Rutgers University.
 
-- 👀 I’m interested in Embedded systems, Computer Architecture, Machine Learning and Deep Learning. 
+- 👀 I’m interested in AI, Machine Learning, Deep Learning and Computer Architecture. 
 
-- 🌱 I’m currently learning advanced concepts related to Embedded systems.
+- 🌱 I’m currently learning advanced concepts related to Generative AI and interpreting massive datasets.
 
 - 💞️ I’m looking to collaborate on projects related to Machine Learning and Deep Learning. 
 

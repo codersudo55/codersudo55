@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sudarshan (@codersudo55). I have done my Masters in Electrical and Computer Engineering at Rutgers University.
+- 👋 Hi, I’m Sudarshan (@codersudo55).
 
 - 👀 I’m interested in AI, Machine Learning, Deep Learning and Computer Architecture. 
 
